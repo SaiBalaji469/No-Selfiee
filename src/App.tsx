@@ -318,7 +318,8 @@ function App() {
             <FadeInView delay={0.4}>
               <div className="bg-white p-8 rounded-xl shadow-lg">
                 <h3 className="text-2xl font-semibold mb-6">Book Now</h3>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe36jjwNUrHKy31nAzl3c9h0pVDNi-l8OUiJqg9Qb8Iygadeg/viewform?embedded=true" width="640" height="440" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe36jjwNUrHKy31nAzl3c9h0pVDNi-l8OUiJqg9Qb8Iygadeg/viewform?embedded=true" 
+                width="500" height="440" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
               </div>
             </FadeInView>
           </div>
